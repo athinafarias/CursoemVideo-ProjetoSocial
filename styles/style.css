@@ -34,3 +34,12 @@ section#phone {
 
     background: url('../imgs/phone.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 46px;
+    left: 25px;
+    height: 625px;
+    width: 301px;
+    border-radius: 0px 0px 30px 30px;
+}
